@@ -1,0 +1,6 @@
+
+exportPattern("^[[:alpha:]]+")
+exportPattern("%V%")
+exportPattern("%VR%")
+exportPattern("Vgl")
+exportPattern("%GL%")

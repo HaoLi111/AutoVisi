@@ -1,0 +1,13 @@
+Package: AutoVisi
+Type: Package
+Title: Automatic Visualization Setup package
+Version: 0.1.0
+Author: Hao Li
+Maintainer: Hao Li <lhrcplanes@qq.com>
+Description: The rewritten visual language that makes complicated plot
+    with one line of code. The package is suitable for exploratory plotting
+    and quick premodelling. 
+License: GPL V3.0
+Encoding: UTF-8
+Imports: plot3D,plot3Drgl,corrplot,GGally,ggplot2
+LazyData: false
