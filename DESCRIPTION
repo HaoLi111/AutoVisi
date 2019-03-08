@@ -9,5 +9,6 @@ Description: The rewritten visual language that makes complicated plot
     and quick premodelling. 
 License: GPL V3.0
 Encoding: UTF-8
-Imports: plot3D,plot3Drgl,corrplot,GGally,ggplot2
+Depends: plot3D,plot3Drgl,GGally,ggplot2,rVividImg,rglUtils,rgrUtils
+Imports: corrplot
 LazyData: false
